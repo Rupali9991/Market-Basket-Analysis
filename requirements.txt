@@ -1,0 +1,7 @@
+mlxtend
+plotly
+flask
+sqlalchemy
+pandas
+numpy
+python-dotenv
